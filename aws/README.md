@@ -1,0 +1,23 @@
+![image](https://github.com/user-attachments/assets/73067ef3-7e77-4aa4-a4a9-9e79a3f8ff2c)
+
+# 🧡 AWS Certified Cloud Practitioner
+
+## 💫 O que é computação em nuvem?
+
+Computação em nuvem é como contratar uma fábrica digital sem precisar construir o prédio. Em vez de manter servidores caros e complicados, ela permite alugar esses recursos de grandes provedores como a AWS, que cuidam de toda a infraestrutura e manutenção, precisando somente de uma conexão à internet para acessar de qualquer lugar, a qualquer hora. Ou seja, computação em nuvem é a entrega rápida de serviços computacionais (as a service).
+
+## 👩‍💻 Três modelos:
+
+**Nuvem pública:** Acesso a todos que tiverem cadastro para consumir os recursos da nuvem. Fornece recursos e serviços a várias organizações e usuários, sem distinção “da onde” vai ficar os produtos. Todos consumimos os produtos da mesma fonte.
+
+**Nuvem privada:** A empresa cria um ambiente virtualizado para si, onde somente as pessoas da organização têm acesso. A nuvem é somente da empresa.
+
+**Nuvem hibrida:** O melhor dos dois mundos. Mantemos os servidores físicos e também utilizamos a nuvem para aproveitar recursos computacionais. *Esse é o modelo mais utilizado.*
+
+## 🌀 Conceito de CapEx e OpEx:
+
+Despesa de Capital (*CapEx*): Gasto inicial, você paga na frente. Você vai atrás do servidor, acerta valores, paga por ele, então recebe seu servidor, configura e libera o ambiente ao usuário fazendo as configurações finais.
+
+Despesas operacionais(*OpEx*): Gasto pelo que foi usado. O pagamento é feito conforme o uso, 30 dias após a utilização do serviço.
+
+
