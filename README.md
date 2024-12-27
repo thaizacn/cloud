@@ -6,12 +6,12 @@ Este repositório destina-se aos meus estudos para as certificações **AZ-900 (
 
 O repositório está organizado em duas principais seções: AWS e Azure. Cada seção contém subdiretórios para anotações, exercícios e provas.
 
-- **aws/**: Contém materiais relacionados aos estudos para a certificação AWS Certified Cloud Practitioner.
-  - **README.md**: Anotações teóricas sobre os tópicos abordados.
+- **aws/**: Contém materiais relacionados aos estudos para as certificações AWS.
+  - **CloudPractitioner.md**: Anotações teóricas sobre os tópicos abordados para estudos da prova AWS Certified Cloud Practitioner
   - **materiais_de_estudo.md**: Links úteis e materiais de estudo.
   
-- **azure/**: Contém materiais relacionados aos estudos para a certificação AZ-900 Microsoft Azure.
-  - **README.md**: Anotações teóricas sobre os tópicos abordados.
+- **azure/**: Contém materiais relacionados aos estudos para as certificações Azure.
+  - **AZ-900.md**: Anotações teóricas sobre os tópicos abordados para estudos da prova AZ-900.
   - **materiais_de_estudo.md**: Links úteis e materiais de estudo.
 
 ## 🤔 Como Usar Este Repositório
