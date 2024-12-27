@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/73067ef3-7e77-4aa4-a4a9-9e79a3f8ff2c)
+![image](https://github.com/user-attachments/assets/361b2ba6-5705-44f0-b28e-565e388adcf3)
 
 # 🧡 AWS Certified Cloud Practitioner
 
