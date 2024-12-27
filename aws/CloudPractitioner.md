@@ -27,4 +27,10 @@ Despesa de Capital (*CapEx*): Gasto inicial, você paga na frente. Você vai atr
 
 Despesas operacionais(*OpEx*): Gasto pelo que foi usado. O pagamento é feito conforme o uso, 30 dias após a utilização do serviço.
 
+## 🤺 IAM:
+Identity and Access Management, responsável por gerenciar acesso aos usuários, grupos, regras etc. de forma segura. 
+- **Gerenciamento de Identidades**: Criar e gerenciar usuários, grupos e funções, atribuindo permissões específicas para acessar recursos da AWS.
+- **Autenticação e Autorização**: Controlar quem pode fazer login (autenticação) e o que eles podem fazer (autorização) nos recursos da AWS.
+- **Credenciais Temporárias**: Conceder credenciais de segurança temporárias para acessar recursos da AWS, o que é útil para workloads que precisam de acesso temporário.
+- **Políticas de Permissão**: Definir políticas detalhadas para controlar o nível de acesso concedido a diferentes usuários e grupos.
 
