@@ -7,11 +7,11 @@
 Computação em nuvem é como contratar uma fábrica digital sem precisar construir o prédio. Em vez de manter servidores caros e complicados, ela permite alugar esses recursos de grandes provedores como a AWS, que cuidam de toda a infraestrutura e manutenção, precisando somente de uma conexão à internet para acessar de qualquer lugar, a qualquer hora. Ou seja, computação em nuvem é a entrega rápida de serviços computacionais (as a service).
 
 ## ☁️ Modelos Cloud:
-**IaaS:** Infraestrutura como serviço. É um aluguel de infra, um paralelo é imaginar como alugar uma casa vazia.
+**IaaS:** Infraestrutura como serviço. É como alugar uma casa vazia para configurá-la como quiser.
 
-**PaaS:** Plataforma como serviço. Para alugar aplicações, fornecendo recursos e ferramentas, um paralelo é imaginar o aluguel de uma casa com móveis.
+**PaaS:** Plataforma como serviço. Imagine alugar uma casa já mobiliada, com recursos prontos para usar.
 
-**SaaS:** Software como serviço. O uso de software em nuvem, um paralelo é imaginar uma casa completa.
+**SaaS:** Software como serviço. Aqui, você só precisa se mudar para uma casa completa e aproveitar o conforto.
 
 ## 👩‍💻 Tipos de implementação:
 
